@@ -290,26 +290,43 @@ ol {
 }
 
 
-.languages-container {
-  margin-top: 40px;
+.section-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #000;
 }
 
-.languages-title {
-  font-size: 22px;
-  font-weight: 700;
-  color: #161d2a;
-  margin-bottom: 12px;
+.project-item {
+    margin-bottom: 20px;
 }
 
-.languages-list {
-  padding-left: 18px;
-  margin: 0;
+.project-item h4 {
+    margin-bottom: 5px;
+    font-size: 16px;
 }
 
-.languages-list li {
-  color: #161d2a;
-  font-size: 14px;
-  line-height: 24px;
-  margin-bottom: 4px;
+.project-item p {
+    margin: 5px 0;
+    color: #555;
 }
 
+.project-item ul {
+    padding-left: 20px;
+}
+
+.project-item li {
+    margin-bottom: 4px;
+}
+
+.education-item {
+    margin-bottom: 20px;
+}
+
+.education-item h4 {
+    margin-bottom: 5px;
+}
+
+.education-item p {
+    margin: 3px 0;
+}
