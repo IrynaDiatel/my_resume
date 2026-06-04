@@ -289,3 +289,27 @@ ol {
     color: #000;
 }
 
+
+.languages-container {
+  margin-top: 40px;
+}
+
+.languages-title {
+  font-size: 22px;
+  font-weight: 700;
+  color: #161d2a;
+  margin-bottom: 12px;
+}
+
+.languages-list {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.languages-list li {
+  color: #161d2a;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 4px;
+}
+
